@@ -1,6 +1,6 @@
 // Подключаю все scss в один
+@import 'main';
 
 @import 'vars'; // Переменные
 @import 'fonts'; // Шрифты
 @import 'reset'; // Сбросы
-@import 'global'; // Глобальные настройки
